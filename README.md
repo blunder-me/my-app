@@ -1,4 +1,4 @@
-# my-app Vue.js + Vuetify + Firebase + Authentication
+# my-app-modified Vue.js + Vuetify + Firebase + Authentication
 
 ## Project setup
 ```
